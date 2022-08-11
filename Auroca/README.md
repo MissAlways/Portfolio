@@ -9,7 +9,7 @@ Done by using:
 
 Release 
 
-[Download](https://github.com/MissAlways/Portfolio/blob/main/Auroca/Auroca%20Playable.zip)
+[Download](https://github.com/MissAlways/Portfolio/raw/main/Auroca/Auroca%20Playable.zip)
 
 Screenshots
 
